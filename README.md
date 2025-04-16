@@ -1,5 +1,5 @@
-<h1 align="center">Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!!, I'm Samarth Patil!</h1>
-<h3 align="center">I am passionate about Development, AI, and automation.</h3>
+<h1 align="center">Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!! <br> I'm Samarth Patil!</h1>
+<h3 align="center"> AI Enthusiast | Developer-in-Training | C & C++ Explorer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarth11x&label=Profile%20views&color=0e75b6&style=flat" alt="samarth11x" /> </p>
 
