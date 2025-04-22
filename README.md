@@ -1,4 +1,4 @@
-<img align ="center" src="(https://github.com/Samarth11x/Samarth11x/blob/main/temp.png?raw=true)" alt="Templete">
+![Templete](https://github.com/Samarth11x/Samarth11x/blob/main/temp.png?raw=true)
 
 <h1 align="center">Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!! <br> I'm Samarth Patil!</h1>
 <h3 align="center"> AI Enthusiast | Developer-in-Training | C & C++ Explorer </h3>
