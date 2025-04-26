@@ -7,6 +7,7 @@
 
 - 🚀 I’m currently working on **my skills**
 - 🌱 I’m currently learning **C and C++ to enhance my programming skills and to deepen my programming knowledge**
+- 🎯 I'm currently focusing on improving my skills in **HTML, CSS, and JavaScript.**
 - 📫 How to reach me **samarthpatil3996@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
